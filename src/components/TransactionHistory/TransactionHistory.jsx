@@ -1,6 +1,5 @@
 import styles from "./TransactionHistory.module.scss";
 
-
 const TransactionHistory = ({transactions}) => {
 
   return (
